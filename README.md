@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @REALSYCRO
-- 👀 I’m interested in all things about hacking and cracking. (FBI pls dont hate me!)
-- 🌱 I’m currently learning Python and little bit C#.
-- 💞️ I’m looking to collaborate on with everyone who is friendly and can help me get ahead in hacking and programming.
-- 📫 How to reach me: Sycro#4833 (Discord, pls say when you are from GitHub :) ), Mail: zentygithub@gmx.de
+<p align="center">Hey, I'm Sycro lol</p>
 
-<!---
-REALSYCRO/REALSYCRO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=REALSYCRO&show_icons=true&count_private=true&theme=dark"/>
+</p>
+
+## Programming Language:
+
+<img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" />
+
+## Visitor Count:
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/veil-ctf/count.svg" />
+</p>
