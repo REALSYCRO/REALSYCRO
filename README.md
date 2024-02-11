@@ -7,6 +7,7 @@
 ## Programming Language:
 
 <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" />
+<img src="https://img.shields.io/badge/C++" alt="C++" />
 
 ## Visitor Count:
 
